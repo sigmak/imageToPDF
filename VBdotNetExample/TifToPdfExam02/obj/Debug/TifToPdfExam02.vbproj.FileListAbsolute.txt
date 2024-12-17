@@ -1,0 +1,15 @@
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\bin\Debug\TifToPdfExam02.exe.config
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\bin\Debug\TifToPdfExam02.exe
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\bin\Debug\TifToPdfExam02.pdb
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\bin\Debug\TifToPdfExam02.xml
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\bin\Debug\GemBox.Pdf.dll
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\bin\Debug\GemBox.Pdf.xml
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\obj\Debug\TifToPdfExam02.vbprojAssemblyReference.cache
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\obj\Debug\TifToPdfExam02.Form1.resources
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\obj\Debug\TifToPdfExam02.Resources.resources
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\obj\Debug\TifToPdfExam02.vbproj.GenerateResource.cache
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\obj\Debug\TifToPdfExam02.vbproj.CoreCompileInputs.cache
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\obj\Debug\TifToPdfExam02.vbproj.CopyComplete
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\obj\Debug\TifToPdfExam02.exe
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\obj\Debug\TifToPdfExam02.xml
+D:\2025_proj\PDF_LIB\TifToPdfExam02\TifToPdfExam02\obj\Debug\TifToPdfExam02.pdb
