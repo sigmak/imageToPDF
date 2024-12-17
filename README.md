@@ -7,5 +7,5 @@
 
 예제 참고 : https://github.com/GemBoxLtd/GemBox.Pdf.Examples
 
-예제 참고 : https://chatgpt.com/ 와 ttps://claude.ai
+예제 참고 : https://chatgpt.com/ 와 https://claude.ai
 
